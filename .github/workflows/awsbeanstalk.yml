@@ -44,7 +44,7 @@ jobs:
         # Nombre del entorno creado en Beanstalk
         environment_name: AplicacionPedroPrieto-env
         # Nombre de la versión a crear en Beanstalk
-        version_label: v1.26
+        version_label: v1.28
         # Archivo con el código de la aplicación (generado en el paso anterior)
         deployment_package: deploy.zip
         
