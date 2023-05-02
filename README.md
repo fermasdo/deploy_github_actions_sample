@@ -22,7 +22,7 @@ npm test
 ```
 npm start
 ```
-La app estará disponible en `http://localhost:3000`
+La app estará disponible en `http://aplicacionpedroprieto-env-1.eba-j357a5c4.us-east-1.elasticbeanstalk.com/`
 
 ## Instrucciones de despliegue
 1. Hacer un `fork` del repositorio
